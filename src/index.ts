@@ -1,1 +1,5 @@
-console.log('Hello World');
+class Validator {
+
+    data: Array<any>;
+
+}
