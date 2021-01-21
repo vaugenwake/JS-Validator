@@ -1,0 +1,25 @@
+{
+  "name": "jsvalidation",
+  "version": "1.0.0",
+  "description": "Javascript input validation inspired by Laravel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaugenwake/JS-Validator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaugenwake/JS-Validator/issues"
+  },
+  "homepage": "https://github.com/vaugenwake/JS-Validator#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.14.0",
+    "@typescript-eslint/parser": "^4.14.0",
+    "eslint": "^7.18.0",
+    "typescript": "^4.1.3"
+  }
+}
