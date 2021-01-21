@@ -1,5 +1,7 @@
-class Validator {
+import {Factory} from './Factory';
 
-    data: Array<any>;
-
+const validator = function(data = {}, rules = {}, messages = {}): Factory {
+    return new Factory(data, rules, messages)
 }
+
+export default validator;
